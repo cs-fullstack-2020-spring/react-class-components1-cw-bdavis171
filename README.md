@@ -1,4 +1,6 @@
 # Class components
+### Nice work, challenge looks good too, no comments. 
+### Score : 5/5
 
 # React Introduction Class Components 1 Classwork
 
